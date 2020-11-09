@@ -25,4 +25,3 @@ Feature: Homepage
   Scenario: Discord link goes to invite page
     Given I open the website
     Then I see "https://discord.com/invite/jZQs6Wu" in "div.mt-6 a:nth-child(3)" with a "href"
-

@@ -1,9 +1,7 @@
 {
-    "tabWidth": 2,
-    "useTabs": false,
-    "semi": true,
-    "singleQuote": true,
-    "printWidth": 80,
-    "plugins": ["prettier-plugin-svelte"]
-  }
-  
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "printWidth": 80
+}
